@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\ResumeMgr-master\fibo\fibo\bin\Debug\fibo.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ResumeMgr-master\fibo\fibo\bin\Debug\fibo.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ResumeMgr-master\fibo\fibo\bin\Debug\fibo.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ResumeMgr-master\fibo\fibo\obj\Debug\fibo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ResumeMgr-master\fibo\fibo\obj\Debug\fibo.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ResumeMgr-master\fibo\fibo\obj\Debug\fibo.pdb
